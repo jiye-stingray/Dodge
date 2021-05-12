@@ -35,8 +35,8 @@ public class GameManager : MonoBehaviour
             //게임 오버 상태에서 R키를 누른 경우
             if (Input.GetKeyDown(KeyCode.R))
             {
-                //SampleScene 씬을 로드
-                SceneManager.LoadScene("SampleScene");
+               
+                SceneManager.LoadScene("Level");
             }
         }
     }
