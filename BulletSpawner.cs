@@ -44,5 +44,10 @@ public class BulletSpawner : MonoBehaviour
             spawnRate = Random.Range(spawnRateMin, spawnRateMax);
             
         }
+
+        if ()
+        {
+
+        }
     }
 }
