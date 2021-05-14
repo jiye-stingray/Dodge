@@ -45,9 +45,5 @@ public class BulletSpawner : MonoBehaviour
             
         }
 
-        if ()
-        {
-
-        }
     }
 }
